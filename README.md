@@ -51,4 +51,4 @@ This project was developed collaboratively by:
 All team members participated in the design, development, testing, and documentation of the project.
 
 ## Institution
-NIT Goa — EEE Department, 4th Semester Digital and Analog Lab
+NIT Goa — EEE Department, 4th Semester Analog and Digital Circuits Lab
