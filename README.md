@@ -43,10 +43,10 @@ Compares actual IC output against MUX reference output:
 ## Contributors
 This project was developed collaboratively by:
 
-Aayush Singh 
-Abdullah P P 
-Abhishek Rathor 
-Ansh Yadav 
+- Aayush Singh
+- Abdullah P P
+- Abhishek Rathor
+- Ansh Yadav
 
 All team members participated in the design, development, testing, and documentation of the project.
 
